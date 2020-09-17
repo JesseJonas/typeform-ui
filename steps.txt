@@ -1,0 +1,12 @@
+Instalação do styled-components
+Instalação tipos @types/styled-components
+Instalação do framer-motion
+
+--
+
+Arquivo de estilo global src/styles/global.ts
+
+-- 
+
+Estilizações padrões do app src/styles/index.ts
+  styled Main para estilização do APP - padrão
