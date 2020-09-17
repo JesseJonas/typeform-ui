@@ -1,3 +1,7 @@
+## About
+This is a simple project that simulates the scrolling of the TypeForm website.
+Framer Motion and Styled Components tools were used, along with TypeScript.
+
 ## Available Scripts
 
 In the project directory, you can run:
